@@ -1,0 +1,23 @@
+[submodule "gameProject/Vendor/assimp"]
+	path = gameProject/Vendor/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "gameProject/Vendor/glfw"]
+	path = gameProject/Vendor/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = master
+[submodule "gameProject/Vendor/glm"]
+	path = gameProject/Vendor/glm
+	url = https://github.com/g-truc/glm.git
+	branch = master
+[submodule "gameProject/Vendor/stb"]
+	path = gameProject/Vendor/stb
+	url = https://github.com/nothings/stb.git
+	branch = master
+[submodule "gameProject/Vendor/bullet"]
+	path = gameProject/Vendor/bullet
+	url = https://github.com/bulletphysics/bullet3.git
+	branch = master
+[submodule "gameProject/Vendor/glad"]
+	path = gameProject/Vendor/glad
+	url = https://github.com/Dav1dde/glad.git
+	branch = c
